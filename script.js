@@ -1,4 +1,5 @@
 // Variables
+console.log("Js Loaded");
 const apiBaseUrl = 'https://api.coingecko.com/api/v3';
 let currentPage = 'home';
 let previousPage = 'home';
